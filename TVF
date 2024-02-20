@@ -1,3 +1,5 @@
+demo: https://techcommunity.microsoft.com/t5/sql-server-support-blog/query-performance-and-multi-statement-table-valued-functions/ba-p/316226
+
 https://stackoverflow.com/questions/4109152/table-valued-function-killing-my-query-performance
 
 On the SQL Server 2014 we were able to solve our issue by inserting table value function data into temp table and then doing join on it. Instead of doing a join directly to table value function.
